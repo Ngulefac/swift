@@ -1,5 +1,5 @@
 # Author : Ngulefac Theophilus
 # swift
 ```
-For fun only
+For fun only, have fun
 ```
