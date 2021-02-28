@@ -1,5 +1,5 @@
-# Author : Ngulefac Theophilus
-# swift
+philus
+# SWIFTech
 ```
 For fun only, have fun
 ```
